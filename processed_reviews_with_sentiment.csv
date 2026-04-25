@@ -1,0 +1,21 @@
+date,category,product,rating,review,sentiment_score,sentiment
+2026-01-03,Electronics,Wireless Mouse,5,"The mouse is excellent, smooth, fast, and the battery life is great.",4,Positive
+2026-01-04,Electronics,Bluetooth Headphones,4,"Good sound quality and comfortable design, but the case feels cheap.",2,Positive
+2026-01-05,Electronics,USB-C Charger,2,The charger became hot and stopped working after two weeks.,-2,Negative
+2026-01-07,Fashion,Running Shoes,5,"Very comfortable shoes, perfect size, and amazing quality.",4,Positive
+2026-01-08,Fashion,Winter Jacket,3,"The jacket is okay, but the zipper is weak and delivery was late.",-2,Negative
+2026-01-10,Home,Air Fryer,5,Excellent product. It cooks quickly and saves time in the kitchen.,1,Positive
+2026-01-11,Home,Desk Lamp,4,Nice lamp with strong light. The material is good for the price.,3,Positive
+2026-01-13,Home,Vacuum Cleaner,1,Terrible suction power and very noisy. I regret buying it.,-3,Negative
+2026-01-15,Beauty,Face Cream,4,The cream feels soft and smells nice. It improved my skin.,3,Positive
+2026-01-17,Beauty,Shampoo,2,Bad smell and made my hair dry. Not recommended.,-3,Negative
+2026-01-18,Sports,Yoga Mat,5,"Great grip, comfortable thickness, and easy to clean.",3,Positive
+2026-01-20,Sports,Water Bottle,3,Average quality. It works but the cap leaks sometimes.,0,Neutral
+2026-01-22,Electronics,Smart Watch,4,"Useful features and good screen, but the app needs improvement.",2,Positive
+2026-01-24,Fashion,Backpack,5,"Strong material, beautiful design, and enough space for university.",2,Positive
+2026-01-25,Home,Coffee Maker,2,The coffee maker is slow and the taste is not good.,-1,Negative
+2026-01-27,Beauty,Perfume,5,Amazing smell and long lasting. I received many compliments.,3,Positive
+2026-01-28,Sports,Football,4,Good quality ball and fair price.,3,Positive
+2026-02-01,Electronics,Laptop Stand,5,Very helpful for studying and keeps my laptop cool.,1,Positive
+2026-02-03,Fashion,T-Shirt,3,"The design is nice, but the fabric is thin.",1,Positive
+2026-02-05,Home,Pillow,1,Uncomfortable and too hard. I could not sleep well.,-3,Negative

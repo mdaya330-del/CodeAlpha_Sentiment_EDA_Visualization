@@ -1,0 +1,26 @@
+CodeAlpha Data Analytics Project Summary
+
+Project: Product Reviews EDA, Visualization, and Sentiment Analysis
+
+Total reviews analyzed: 20
+Average rating: 3.60
+
+Average rating by category:
+category
+Electronics    4.000000
+Sports         4.000000
+Fashion        4.000000
+Beauty         3.666667
+Home           2.600000
+
+Sentiment distribution:
+sentiment
+Positive    13
+Negative     6
+Neutral      1
+
+Main insights:
+- Positive reviews are mainly connected to comfort, quality, design, and usefulness.
+- Negative reviews are mainly connected to poor quality, late delivery, weak material, leakage, or bad performance.
+- Categories with higher average ratings show stronger customer satisfaction.
+- Products with low ratings should be investigated to improve quality and customer experience.
